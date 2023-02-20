@@ -1,6 +1,6 @@
 # Listening Experiment on Polyphonic Rhythm Complexity
 
-This repository contains the audio files included in the listening test presented in the article: 
+This repository contains the audio files included in the listening test presented in the [article](https://rdcu.be/c5SsS): 
 
  > Alessandro Ilic Mezza, Massimiliano Zanoni, and Augusto Sarti, “A latent rhythm complexity model for attribute-controlled drum pattern generation,” EURASIP Journal on Audio, Speech, and Music Processing, vol. 2023, no. 1, pp. 1–14, Feb. 2023.
 
